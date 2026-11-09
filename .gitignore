@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+
+# Local credentials, secret stores, and private keys.
+.secrets/
+secrets/
+credentials.json
+*.pem
+*.p12
+*.pfx
+*.key
+
+.env
+.env.*
+!.env.example
