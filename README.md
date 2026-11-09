@@ -63,7 +63,7 @@ Przykład:
 
 ```env
 OPENAI_API_KEY=twoj_wlasny_klucz_api
-OPENAI_BASE_URL=
+OPENAI_BASE_URL=odpowiedni_base_url
 MODEL_NAME=nazwa_wybranego_modelu
 ```
 
